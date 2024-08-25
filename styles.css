@@ -10,7 +10,7 @@ body {
     line-height: 1.6;
     color: #fff;
     padding-top: 60px;
-    cursor: url('/static/images/dove.cur'), auto;
+    cursor: url('/images/dove.cur'), auto;
 }
 
 .container {
@@ -26,7 +26,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('/static/images/sunset.gif') no-repeat center center fixed;
+    background: url('/images/sunset.gif') no-repeat center center fixed;
     background-size: cover;
     z-index: -1;
 }
